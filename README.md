@@ -73,7 +73,7 @@ pos-system/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/krishnansury952/pos-system.git
+git clone [https://github.com/krishnansury952/pos-system.git](https://github.com/krishnansurya952/qest.git)
 cd pos-system
 
 2️⃣ Install Dependencies
